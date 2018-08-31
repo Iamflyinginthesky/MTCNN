@@ -1,2 +1,2 @@
 # MTCNN
-MTCNN实现人脸实时检测与定位
+real-time face detection and location with MTCNN
